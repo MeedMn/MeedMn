@@ -19,4 +19,4 @@ Feel free to contact me on LinkedIn.
                                             [<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="35"/>]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/mohamed-menfalouti/))
 
 ## Fun Fact ⚡
-When I'm not coding or designing, you can find me exploring the world of gaming or diving into a good book!
+When I'm not coding or designing, you can find me exploring the world of IT even more!
