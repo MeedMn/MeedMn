@@ -4,6 +4,10 @@ I'm a Computer Science Engineer with a passion for technology and design. I have
 
 In addition to my engineering skills, I have a keen interest in Graphic Design and Interior Design. I believe that good design principles can greatly enhance the user experience and functionality of tech products.
 
+## My Cv 🚀
+
+![Mohamed_Menfalouti_Pfe_page-0001](https://github.com/MeedMn/MeedMn/assets/83285306/78d5a63d-1310-430e-b001-ca65d61c9972)
+
 ## My Experiences 🚀
 - **Web Development**: Building responsive and efficient websites using ReactJS, Angular, Django.
 - **Mobile Application Development**: Creating user-friendly mobile applications.
