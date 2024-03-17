@@ -14,9 +14,12 @@ In addition to my engineering skills, I have a keen interest in Graphic Design a
 ## What I'm Focused On 🔭
 Currently improving my tech skills and learning more about Artificial Intelligence and Machine Learning.
 
+## GitHub Statistics 📊
+[![MeedMn's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeedMn)](https://github.com/MeedMn)
+
 ## How To Reach Me 📫
 Feel free to contact me on LinkedIn.
-                                            [<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="35"/>]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/mohamed-menfalouti/))
+[<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="35"/>]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/mohamed-menfalouti/))
 
 ## Fun Fact ⚡
 When I'm not coding or designing, you can find me exploring the world of IT even more!
