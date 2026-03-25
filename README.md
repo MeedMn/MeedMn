@@ -52,7 +52,7 @@ Passionate about building scalable backend systems, clean architectures, and mod
 
 ### 🔹 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 </p>
 
 ---
