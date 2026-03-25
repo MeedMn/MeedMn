@@ -9,73 +9,68 @@ Passionate about building scalable backend systems, clean architectures, and mod
 
 ## 🚀 About Me
 
-- 💻 Java Full Stack Engineer with a strong focus on **Spring Boot & Microservices**
-- 🧠 Interested in **system design, clean architecture, and performance optimization**
-- ⚙️ Experienced in **backend-heavy systems with real-world constraints**
-- 🌱 Currently learning more about **DevOps & Cloud architectures**
-- 🎯 Goal: Build high-performance, scalable systems and grow into a **senior/architect role**
+- 💻 Java Full Stack Engineer focused on **Spring Boot & Microservices**
+- 🧠 Interested in **System Design & Clean Architecture**
+- ⚙️ Strong experience in **backend-heavy systems**
+- 🌱 Learning more about **Cloud & DevOps**
+- 🎯 Goal: Become a **Software Architect**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
-- Java (Core, Advanced)
-- Spring Boot
-- Spring Framework
-- Spring Security
-- JPA / Hibernate
-- Kotlin
-- REST APIs
-- Microservices Architecture
-- Hexagonal Architecture
-- MapStruct
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin" />
+  <br/>
+  <img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hexagonal-Architecture-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MapStruct-Mapping-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🔹 Frontend
-- Angular
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5 / CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" />
+</p>
 
 ---
 
 ### 🔹 DevOps & CI/CD
-- Docker 🐳
-- Jenkins
-- GitHub Actions
-- GitLab CI/CD
-- Linux (Ubuntu / WSL)
-- Nginx
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gitlab,linux,nginx" />
+</p>
 
 ---
 
 ### 🔹 Databases
-- MariaDB
-- MySQL
-- PostgreSQL
-- Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+  <br/>
+  <img src="https://img.shields.io/badge/MariaDB-Database-brown?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔹 Other Tools & Technologies
-- Git / GitHub / GitLab
-- Maven / Gradle
-- Postman / Swagger
-- IntelliJ IDEA
-- Confluence / Jira
-- Agile / Scrum
+### 🔹 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,postman,idea" />
+  <br/>
+  <img src="https://img.shields.io/badge/Swagger-API%20Docs-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-Agile-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Confluence-Docs-blue?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📈 What I Focus On
 
-- Writing **clean, maintainable, and scalable code**
-- Designing **robust APIs and microservices**
-- Improving **performance and memory optimization**
-- Applying **best practices and design patterns**
+- Clean & scalable architecture 🧱
+- High-performance backend systems ⚡
+- API design & microservices 🔗
+- Code quality & best practices ✅
 
 ---
 
@@ -99,7 +94,7 @@ Passionate about building scalable backend systems, clean architectures, and mod
 
 ## ⚡ Fun Fact
 
-> I enjoy solving complex backend problems and turning them into simple, efficient solutions.
+> I turn complex backend problems into simple, scalable solutions 🚀
 
 ---
 
