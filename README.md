@@ -1,25 +1,106 @@
-# Hi there, I'm @MeedMn 👋
+<h1 align="center">Hi 👋, I'm Mohamed Menfalouti</h1>
+<h3 align="center">Java Full Stack Software Engineer</h3>
 
-I'm a Computer Science Engineer with a passion for technology and design. I have developed a variety of applications spanning web, mobile, and desktop platforms. My experience includes working with technologies such as .NET, Java, Spring Framework, TypeScript, JavaScript, ReactJS, Angular, Django, Python and more.
+<p align="center">
+Passionate about building scalable backend systems, clean architectures, and modern full-stack applications.
+</p>
 
-In addition to my engineering skills, I have a keen interest in Graphic Design and Interior Design. I believe that good design principles can greatly enhance the user experience and functionality of tech products.
+---
 
-## My Experiences 🚀
-- **Web Development**: Building responsive and efficient websites using ReactJS, Angular, Django.
-- **Mobile Application Development**: Creating user-friendly mobile applications.
-- **Desktop Application Development**: Developing desktop applications that solve real-world problems.
-- **Graphic Design**: Creating visually appealing designs for various digital platforms.
-- **Interior Design**: Applying design principles to create functional and aesthetically pleasing interior spaces.
+## 🚀 About Me
 
-## What I'm Focused On 🔭
-Currently improving my tech skills and learning more about Artificial Intelligence and Machine Learning.
+- 💻 Java Full Stack Engineer with a strong focus on **Spring Boot & Microservices**
+- 🧠 Interested in **system design, clean architecture, and performance optimization**
+- ⚙️ Experienced in **backend-heavy systems with real-world constraints**
+- 🌱 Currently learning more about **DevOps & Cloud architectures**
+- 🎯 Goal: Build high-performance, scalable systems and grow into a **senior/architect role**
 
-## GitHub Statistics 📊
-[![MeedMn's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeedMn)](https://github.com/MeedMn)
+---
 
-## How To Reach Me 📫
-Feel free to contact me on LinkedIn.
-[<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="35"/>]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/mohamed-menfalouti/))
+## 🛠️ Tech Stack
 
-## Fun Fact ⚡
-When I'm not coding or designing, you can find me exploring the world of IT even more!
+### 🔹 Backend
+- Java (Core, Advanced)
+- Spring Boot
+- Spring Framework
+- Spring Security
+- JPA / Hibernate
+- Kotlin
+- REST APIs
+- Microservices Architecture
+- Hexagonal Architecture
+- MapStruct
+
+---
+
+### 🔹 Frontend
+- Angular
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 / CSS3
+
+---
+
+### 🔹 DevOps & CI/CD
+- Docker 🐳
+- Jenkins
+- GitHub Actions
+- GitLab CI/CD
+- Linux (Ubuntu / WSL)
+- Nginx
+
+---
+
+### 🔹 Databases
+- MariaDB
+- MySQL
+- PostgreSQL
+- Redis
+
+---
+
+### 🔹 Other Tools & Technologies
+- Git / GitHub / GitLab
+- Maven / Gradle
+- Postman / Swagger
+- IntelliJ IDEA
+- Confluence / Jira
+- Agile / Scrum
+
+---
+
+## 📈 What I Focus On
+
+- Writing **clean, maintainable, and scalable code**
+- Designing **robust APIs and microservices**
+- Improving **performance and memory optimization**
+- Applying **best practices and design patterns**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/your-github">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy solving complex backend problems and turning them into simple, efficient solutions.
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
